@@ -342,7 +342,7 @@ header nav ul li a:hover{
   grid-template-columns: repeat(auto-fit, minmax(16em, 1fr));
 }
 .services .plan{
-  margin: 10px 10px;
+  margin: 20px 20px;
   box-shadow: 1px 1px 10px 5px rgba(255, 68, 0, 0.041);
   border-radius: 10px;
 }
@@ -604,6 +604,9 @@ footer .footer a {
   }
   .ourservices h1:before{
     margin-left: 55px;
+  }
+   .services .plan{
+    margin: 0px 0px;
   }
   .containerku{
     width: 100%;
